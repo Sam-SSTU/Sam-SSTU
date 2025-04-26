@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-SSTU)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M8XZF1XCRX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M8XZF1XCRX');
+</script>
