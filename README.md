@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-SSTU)](https://github.com/anuraghazra/github-readme-stats)
 -->
-md ![Profile views](https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your_username.your_username)
