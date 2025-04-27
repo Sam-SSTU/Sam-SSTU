@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam-SSTU)](https://github.com/anuraghazra/github-readme-stats)
 -->
+  [![HitCount](https://hits.dwyl.com/Sam-SSTU/Sam-SSTU.svg?style=flat)](http://hits.dwyl.com/Sam-SSTU/Sam-SSTU)
